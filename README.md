@@ -1,4 +1,4 @@
-# jezreel_app
+# Fruits Store App
 
 A new Flutter project.
 
